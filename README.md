@@ -1,10 +1,9 @@
 # Analisis-y-pronosticos-de-los-precios-de-Qualitas
 
 **Nota** El proyecto se dividio en dos partes por la variedad de modelos aplicados. 
-  * Parte 1. Modelos clásicos (AR, MA, ARMA, ARIMA, ARIMAX y SARIMA)
-  * Parte 2. Modelos avanzados (Auto Arima, Prophet, LSTM)
+  * Parte 1. Modelos clásicos (AR, MA, ARMA, ARIMA, ARIMAX y SARIMA) nombre del archivo Qualitas Mx
+  * Parte 2. Modelos avanzados (Auto Arima, Prophet, LSTM) nombre del archivo: transformación de Q
 
-## ⭐ Metodología STAR
 
 ### ⭐ **Situación:**  
 En un contexto financiero, surge la necesidad de desarrollar un modelo para **pronosticar los precios de las acciones de Qualitas**, con el fin de explorar la precisión de distintos enfoques de series de tiempo. Dado que los precios bursátiles presentan volatilidad y patrones complejos, era esencial comparar modelos tradicionales con técnicas más avanzadas para identificar la mejor opción.
